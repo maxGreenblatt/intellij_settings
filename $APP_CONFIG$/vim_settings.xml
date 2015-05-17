@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Plex-Repos/chef-infrastructure/chef-config/site-cookbooks/meta/recipes/db-slave.rb" timestamp="1431897300802" />
+      <file name="$USER_HOME$/Plex-Repos/chef-infrastructure/chef-config/site-cookbooks/meta/recipes/db-master.rb" timestamp="1431897293304">
+        <mark key="]" line="46" column="0" />
+        <mark key="^" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+        <mark key="[" line="27" column="67" />
+      </file>
       <file name="$USER_HOME$/Plex-Repos/chef-infrastructure/chef-config/site-cookbooks/meta/recipes/all-workers.rb" timestamp="1431896126823">
         <mark key="[" line="23" column="34" />
       </file>
