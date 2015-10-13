@@ -1,0 +1,7 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="File '/Users/max/Plex-Repos/plex-metadata-utils-chef/chef-config/cookbooks/metadata-pipeline/files/default/tvdb-download-and-index.py'" />
+    <option name="defaultScopeName" value="File '/Users/max/Plex-Repos/plex-metadata-utils-chef/chef-config/cookbooks/metadata-pipeline/files/default/tvdb-download-and-index.py'" />
+    <option name="SEARCH_SCOPE" value="File '/Users/max/Plex-Repos/plex-metadata-utils-chef/chef-config/cookbooks/metadata-pipeline/files/default/tvdb-download-and-index.py'" />
+  </component>
+</application>
